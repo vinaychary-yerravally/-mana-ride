@@ -1,0 +1,6 @@
+{
+  "name": "MANA RIDE",
+  "description": "Native Android ride-hailing app in Jetpack Compose & Kotlin for Customer and Driver flows, with Django REST API repository layer and interactive simulator.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
